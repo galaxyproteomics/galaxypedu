@@ -17,4 +17,4 @@ _In order to extend the reach of these workflows to the greater community, the G
 
 <br>
 
-[Please provide us with your feedback](https://z.umn.edu/asms2017fb){:target="_blank"}
+[Please provide us with your feedback](https://z.umn.edu/galaxypedufb){:target="_blank"}
