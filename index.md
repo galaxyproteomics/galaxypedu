@@ -16,7 +16,7 @@ Galaxy-P has set up a publically accessible Galaxy instance on the Jetstream clo
 
 
 Galaxy-P workshops at international conferences:
-- **[ABRF 2017](https://galaxyproteomics.github.io/abrf2017/){:target="_blank"} **@ San Diego, CA, USA 
+- **[ABRF 2017](https://galaxyproteomics.github.io/abrf2017/){:target="_blank"}**@ San Diego, CA, USA 
 - **[ASMS 2017](https://galaxyproteomics.github.io/asms2017/){:target="_blank"}**@ Indianapolis, IN, USA
 - **[GCC 2017](https://galaxyproteomics.github.io/gcc2017/){:target="_blank"}**@ Montpellier, France
 
