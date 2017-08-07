@@ -1,6 +1,6 @@
 
 
-# Welcome to the Galaxy-P training site
+# Welcome to the Galaxy-P Training Site
 
 ### **Galaxy-P in the Cloud: Educational Instance**
 
@@ -15,11 +15,11 @@ Galaxy-P has set up a publically accessible Galaxy instance on the Jetstream clo
 - **[Metaproteomics Gateway](z.umn.edu/metaproteomicsgateway){:target="_blank"}**
 
 
-Galaxy-P workshops at international conferences:
+**Galaxy-P workshops at international conferences:**
 - **[ABRF 2017](https://galaxyproteomics.github.io/abrf2017/){:target="_blank"}**@ San Diego, CA, USA 
 - **[ASMS 2017](https://galaxyproteomics.github.io/asms2017/){:target="_blank"}**@ Indianapolis, IN, USA
 - **[GCC 2017](https://galaxyproteomics.github.io/gcc2017/){:target="_blank"}**@ Montpellier, France
 
 <br>
 
-[Please provide us with your feedback](https://z.umn.edu/galaxypedufb){:target="_blank"}
+**[Please provide us with your feedback](https://z.umn.edu/galaxypedufb){:target="_blank"}**
