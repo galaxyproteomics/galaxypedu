@@ -11,9 +11,8 @@ _Galaxy-P is a multi-omics informatics platform. The focus of the platform is in
 _In order to extend the reach of these workflows to the greater community, the Galaxy-P team has partnered with both the [JetStream cyberinfrastructure resource](http://jetstream-cloud.org/){:target="_blank"} and [Amazon Web Services](https://aws.amazon.com){:target="_blank"}._  
 
 Galaxy-P has set up a publically accessible Galaxy instance on the Jetstream cloud-based cyberinfrastructure resource.
-_- [Proteogenomics instance](z.umn.edu/proteogenomicsgateway){:target="_blank"}
-
-_- [Metaproteomics Instance](z.umn.edu/metaproteomicsgateway){:target="_blank"}
+- [Proteogenomics instance](z.umn.edu/proteogenomicsgateway){:target="_blank"}
+-[Metaproteomics Instance](z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
 
 <br>
