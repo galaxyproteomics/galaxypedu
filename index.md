@@ -4,7 +4,7 @@
 
 ### **Galaxy-P in the Cloud: Educational Instance**
 
-- Training documentation: [Documentation](https://z.umn.edu/gptraining2017doc){:target="_blank"}
+- [Training documentation](https://z.umn.edu/gptraining2017doc){:target="_blank"}
 
 _Galaxy-P is a multi-omics informatics platform. The focus of the platform is integrative analysis of genomics, transcriptomics and mass spectrometry-based proteomics and metabolomics data. Galaxy-P is an extension of the popular Galaxy bioinformatics platform, and is being actively developed by the Griffin research group at the University of Minnesota in collaboration with the Minnesota Supercomputing Institute.  The project is funded by the National Science Foundation and the National Cancer Institute’s Informatics Technology for Cancer Research program._
 
