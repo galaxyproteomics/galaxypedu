@@ -12,6 +12,7 @@ _In order to extend the reach of these workflows to the greater community, the G
 
 Galaxy-P has set up a publically accessible Galaxy instance on the Jetstream cloud-based cyberinfrastructure resource.
 _- [Proteogenomics instance](z.umn.edu/proteogenomicsgateway){:target="_blank"}
+
 _- [Metaproteomics Instance](z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
 
