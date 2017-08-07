@@ -1,6 +1,6 @@
 
 
-# Welcome to the Galaxy-P Training Site
+# Welcome to the Galaxy-P Training Suite
 
 ### **Galaxy-P in the Cloud: Educational Instance**
 
